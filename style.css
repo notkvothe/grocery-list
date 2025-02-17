@@ -1,0 +1,33 @@
+h1 {
+  text-align: center;
+  font-size: 35px;
+}
+
+img {height: 175px; padding-left: 50px;
+}
+
+.headers {
+  font-size: 38px;
+  background-color: aquamarine;
+  color: coral;
+  display: inline-block;
+  border: solid;
+}
+
+.items {
+    display: inline-block;
+    background-color: darkslateblue; 
+    color: white;
+    width: 200px;
+    height: 125px;
+    font-size: 16px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+    border: dashed;
+    }
+
+
+
+
